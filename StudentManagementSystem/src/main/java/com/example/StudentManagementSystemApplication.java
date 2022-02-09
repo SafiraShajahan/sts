@@ -28,6 +28,7 @@ public class StudentManagementSystemApplication {
 	}
 
 //	@Autowired
+	
 //	private StudentRepository studentRepository;
 //	
 //	@Override
