@@ -16,6 +16,7 @@ public class AdminController {
 	  private AdminService adminService;
 	 
 	 
+	 
 	@PostMapping("/adminLoginCheck")
 	public String login(@ModelAttribute AdminEntity adminEntity)
 	 {	
